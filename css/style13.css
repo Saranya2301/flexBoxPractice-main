@@ -1,0 +1,55 @@
+body {
+    display: flex;
+    height: 100vh;
+}
+
+.box {
+    border: solid 5px;
+    margin: 20px;
+}
+
+header {
+    display: flex;
+    flex: 1;
+}
+
+.row {
+
+    border: solid 5px;
+    background-color: darkcyan;
+    flex: 1 1 5rem;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    flex: 2;
+}
+
+.column1,
+.column2 {
+
+    border: solid 5px;
+    flex: 1 1 5rem;
+}
+
+.column1 {
+    background-color: darkseagreen;
+    margin-bottom: 5px;
+}
+
+.column2 {
+    background-color: orchid;
+}
+
+footer{
+    display: flex;
+    flex: 1;
+}
+
+.row2 {
+
+    border: solid 5px;
+    background-color:green;
+    flex: 1 1 5rem;
+}

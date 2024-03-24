@@ -1,0 +1,29 @@
+body{
+    display: flex;
+    justify-content: space-evenly;
+    height: 100vh;
+}
+
+header, main, footer {
+    flex: 1;
+    border: 5px solid black;
+    margin:30px;
+    
+    
+}
+
+header{
+    
+    background-color: aqua;
+    
+}
+
+main{
+    
+    background-color: blue;
+}
+
+footer{
+    
+    background-color: aquamarine;
+}

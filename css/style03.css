@@ -1,0 +1,43 @@
+header{
+    border: solid 5px;
+    background-color: brown;
+    height: 200px;
+    margin-bottom:20px ;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+main{
+    display:flex;
+    
+    background-color:bisque;
+    height: 200px;
+    margin-top:20px;
+    margin-left: 10px;
+    margin-right: 10px;
+  
+}
+.one{
+       
+    flex-basis: 50%;
+    background-color:blue;
+    border-left: solid 5px;
+    border-top:solid 5px ;
+    border-bottom: solid 5px;
+}
+.two{
+   
+    flex-basis: 50%;
+    background-color: aquamarine;
+    border: solid 5px;
+}
+footer{
+    border: solid 5px;
+    background-color:blueviolet;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+  
+}

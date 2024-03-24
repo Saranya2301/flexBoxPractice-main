@@ -1,0 +1,114 @@
+header{
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+    border: solid 5px;
+    background-color: brown;
+    height: 170px;
+    margin-bottom:20px ;
+    margin-top: 20px;
+}
+
+.square{
+    background-color: chartreuse;
+    height: 50px;
+    width: 50px;
+    border: solid 5px;
+    margin:auto;
+    margin-left:40px;
+ 
+    
+}
+
+p{
+   font-family: 'Times New Roman', Times, serif;
+   font-size:xx-large; 
+   font: bolder;
+   margin-right: 40px;
+   
+}
+
+.four{
+    display: flex;
+    justify-content:space-between;
+
+}
+
+.five{
+    background-color: darkgoldenrod;
+    border: solid 5px;
+    height: 60px;
+    margin-bottom: 20px;
+    flex-basis: 15%;
+}
+
+.sev{
+    background-color: white;
+    height: 60px;
+    margin-bottom: 20px;
+    flex-basis: 10%;
+}
+
+.circle{
+    background-color:chartreuse;
+    border-radius: 50%;
+    border: solid 5px;
+    height: 60px;
+    margin-bottom: 20px;
+    flex-basis: 4%;
+}
+
+main{
+    display:flex;
+    height: 170px;
+  
+}
+.one{
+       
+    flex-basis: 20%;
+    background-color:blue;
+    border: solid 5px;
+    margin-right: 20px;
+    
+    
+}
+.two{
+   
+    flex-basis: 80%;
+    background-color: aquamarine;
+    border: solid 5px;
+    margin-left: 20px;
+    
+    
+    
+    
+}
+footer{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    border: solid 5px;
+    background-color:blueviolet;
+    height: 170px;
+    margin-top: 20px;
+}
+
+.nine{
+    background-color: chocolate;
+    border: solid 5px black;
+    font: bolder;
+    font-size: x-large;
+    color: white;
+    height: 80px;
+    flex-basis: 100px;
+    margin: 8px;
+    margin-right: 20px;
+    padding: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     
+   
+    
+}

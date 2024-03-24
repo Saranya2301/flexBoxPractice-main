@@ -1,0 +1,27 @@
+header{
+    border: solid 5px;
+    background-color: brown;
+    height: 200px;
+    margin-bottom:20px ;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+main{
+    border: solid 5px;
+    background-color:bisque;
+    height: 200px;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+
+footer{
+    border: solid 5px;
+    background-color:blueviolet;
+    height: 200px;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}

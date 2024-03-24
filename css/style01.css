@@ -1,0 +1,23 @@
+header, main, footer{
+    border: solid 5px;
+    height: 215px;
+    
+    
+    
+}
+
+header{
+    background-color: brown;
+    margin-top: 10px;
+}
+main{
+   background-color:bisque;
+    
+    
+}
+
+footer{
+    background-color:blueviolet;
+    
+    
+}
