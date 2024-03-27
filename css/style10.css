@@ -1,3 +1,4 @@
+
 header{
     display:flex;
     justify-content:space-between;
@@ -11,8 +12,8 @@ header{
 
 .square{
     background-color: chartreuse;
-    height: 50px;
-    width: 50px;
+    height: 90px;
+    width: 90px;
     border: solid 5px;
     margin:auto;
     margin-left:40px;
@@ -85,30 +86,39 @@ main{
 }
 footer{
     display: flex;
-    justify-content: flex-end;
+    justify-content: space-around;
     align-items: center;
     border: solid 5px;
     background-color:blueviolet;
     height: 170px;
     margin-top: 20px;
+    
 }
 
 .nine{
     background-color: chocolate;
     border: solid 5px black;
     font: bolder;
-    font-size: x-large;
+    font-size:xx-large;
     color: white;
-    height: 80px;
-    flex-basis: 100px;
-    margin: 8px;
-    margin-right: 20px;
-    padding: 10px;
+    height: 70px;
+    flex-basis: 350px;
+    margin: 20px;
+    padding:25px;
     text-align: center;
-    display: flex;
-    justify-content: center;
     align-items: center;
-     
-   
+ 
     
+}
+
+.ten{
+    background-color:blueviolet;
+    border: solid 5px blueviolet;
+    height: 70px;
+    flex-basis: 350px;
+    margin: 20px;
+    padding:25px;
+    display: flex;
+    align-items: center;
+
 }

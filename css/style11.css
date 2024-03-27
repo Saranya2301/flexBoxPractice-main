@@ -1,13 +1,13 @@
 body{
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     height: 100vh;
 }
 
 header, main, footer {
     flex: 1;
     border: 5px solid black;
-    margin:30px;
+    margin: 30px;
     
     
 }
